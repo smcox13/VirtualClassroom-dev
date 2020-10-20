@@ -1,0 +1,27 @@
+.App {
+    text-align: left;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.text_field_email {
+    border-radius: 110px;
+}
+
+.columns_new {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.img_class {
+    width: 75%;
+    height: 75%;
+}
+.hide-grid {
+    background-color: 'transparent';
+    background: 'transparent';
+    border-color:'transparent';
+    padding-top: '100px';
+}
